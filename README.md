@@ -7,7 +7,7 @@ This is a P2P file sharing project that enables peers to exchange files within a
 
 Group Name: Rashi Pandey's Group
 
-Group Members: Rashi Pandey, Aadithya Kandeth, Yash Goel, Srishti Jaiswal
+Group Members: Srishti Jaiswal, Aadithya Kandeth, Yash Goel, Rashi Pandey
 
 
 ## Project Structure
